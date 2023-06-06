@@ -1,0 +1,31 @@
+<h2>Contact Me</h2>
+<p>Phone no: +91 90245 74***</p>
+<p>Address: Personal</p>
+
+<h2>My hobbies are:</h2>
+<ul>
+    <li>Listening songs</li>
+    <li>Reading books</li>
+    <li>Exploring new place</li>
+    <li>Travelling</li>
+</ul>
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>My Resume</title>
+    </head>
+    <body>
+        <h1>Rishita Bafna</h1>
+        <img src="me.jpg" height="200" />
+        <h2>Summary</h2>
+        <p>I am a confident and hardworking person.</p>
+        <hr />
+        <h2>Education</h2>
+        <p>I am studying bachelor of engineering in Bangalore Institute of Technology,India.</p>
+        <hr />
+        <a href="./contact.html">My Contact</a>
+        <br />
+        <a href="./hobbies.html">My hobbies</a>
+    </body>
+</html>
